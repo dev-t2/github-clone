@@ -1,0 +1,46 @@
+/* COMMON SUMMARY */
+.summary > .summary__title {
+  font-size: 34px;
+}
+.summary > .summary__description {
+  font-size: 22px;
+}
+
+/* FEATURE */
+.section--feature > .tiles li {
+  width: 100%;
+  border-right: none;
+  border-bottom: 1px solid #e5e5e5;
+}
+.section--feature > .tiles li:last-child {
+  border-bottom: none;
+}
+
+/* WHERE */
+.section--where #map {
+  width: auto;
+  margin: 40px -20px 0;
+  border-left: none;
+  border-right: none;
+}
+
+/* PRICING */
+.section--pricing .card {
+  display: block;
+}
+.section--pricing .card > .cell-2 {
+  border-left: none;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* FOOTER */
+footer > .inner {
+  display: block;
+}
+footer .site-links {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+footer .site-links:nth-child(1) {
+  margin-bottom: 20px;
+}
