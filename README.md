@@ -1,5 +1,3 @@
-# github-clone
-
-GitHub Clone(Old Version)
+# GitHub Clone
 
 https://developer-t2.github.io/github-clone/
