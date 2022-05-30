@@ -1,3 +1,2 @@
-# GitHub Clone(Old Version, Responsive)
-
-https://developer-t2.github.io/github-clone/
+# GitHub Clone
+Preview: https://dev-t2.github.io/github-clone/
